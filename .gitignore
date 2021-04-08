@@ -1,0 +1,2 @@
+*.sqlite3
+react_django_test/secret_key.py

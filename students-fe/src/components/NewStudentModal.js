@@ -1,8 +1,8 @@
-import React, { Compenent, Fragment } from "react";
+import React, { Component, Fragment } from "react";
 import { Button, Modal, ModalHeader, ModalBody } from "reactstrap";
 import NewStudentForm from "./NewStudentForm";
 
-class NewStudentModal extends COmponent {
+class NewStudentModal extends Component {
   state = {
     modal: false
   };
